@@ -1,0 +1,26 @@
+{
+  "name": "Tom Barker",
+  "age": 61,
+  "address": {
+    "street": "Fekef Turnpike",
+    "city": "Tivudzim",
+    "state": "WY",
+    "zip": "50890"
+  },
+  "contact": {
+    "phone": "(577) 210-5648",
+    "servicePhone": "800159775"
+  },
+  "birthday": "1985-01-14T06:49:25.221Z",
+  "ip": "182.250.149.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Bakcenaf kunpepu cih vat tivasgo jenimsev rodatigi zohe ima golda vabois fosah. Ogopez du wafnobo wekumuce sob zaagnod cihveena dijwipri edka zov jerebu ro coghunaw. Gaj dec vu keveh ujukoewu zumzawof mo fejo kas cucamlob povwuijo uzzab gu coba ugcig. Mat uf zuwa ju ug tefvafta mogvarov ju gud ju so wecu.",
+    "bio": "Zah pezowja ce hilule jiziro sualav zewer pogat mi wipef kutaki usug zi. Nejwasha widegri tojrebeb sumji ovofu gosaco umofec co cid molu fefug oja risliw pugogob nosgen. Gek zez gi lifege medievo gotetcoz ci kiuculi vaedoid fatojni dulakek safe agu."
+  },
+  "apiKey": "30e818712efe777b72b783f62336a4da3d4bbbe668cc9fdff344f4d9be3e101f",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
