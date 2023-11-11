@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Fisher",
+  "age": 41,
+  "address": {
+    "street": "Soniw Path",
+    "city": "Naappa",
+    "state": "NV",
+    "zip": "74657"
+  },
+  "contact": {
+    "phone": "(818) 727-8047",
+    "servicePhone": "800468167"
+  },
+  "birthday": "1962-06-20T12:33:18.600Z",
+  "ip": "198.46.15.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Ek atiesa selago ukfaw tuk alo niwzag isu ce uwjid vigecsek sosikow ceza huku. Oka ujerumnu olse degik denpo cuzet fifadewo bikojene mana pacvip cajna pud aw. Lacbonij ukipe va zo av izzifwob coib jiw jovral ur fenortu hir kuki ja dew fosizo.",
+    "bio": "Ozi goc ibo ce firmi ul nawtuudi pijaroza irozu pumruccuh fapnolsop dubum sekogi im acumoh cigugaje emanoak no. Mo jog zire vorvun ga ussit jugeti je dezumal unu fijfo leh evune jimzif hef. Zevcimgu geuhe tawat gomhat wubi se nevpoiza owu heuni ariderku nefvec zilkuzu itimuw zo iz soncozde. Huvupvo afpi ijeeg apkavi ka kuczaj wiciofu keg pivci vil inafenwa odafevde ed vetjowas re rus. Ma hefared pedvep ij ad nunpe zirto gubowuc ecfin va rug ulives oce po zi siov."
+  },
+  "apiKey": "64e01fad723f6ba8d586d000755c384fbd98599498e6ee3c9501ae949922a2fa",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
