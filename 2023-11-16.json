@@ -1,0 +1,26 @@
+{
+  "name": "Ada Stewart",
+  "age": 20,
+  "address": {
+    "street": "Orjo Drive",
+    "city": "Jajuhew",
+    "state": "SC",
+    "zip": "82009"
+  },
+  "contact": {
+    "phone": "(250) 504-5774",
+    "servicePhone": "800526984"
+  },
+  "birthday": "1989-09-23T23:46:19.872Z",
+  "ip": "151.212.17.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuzrad cul za mopcal elaute kefizut forig sicjojsi felek essa neluma meug. Es tu tukuvin pulpehuw kigonfiw fi nu bucawa homof ud gor roulru nawi jod. Ticfa ecfe atainazat ohbu ibeulu umiallo wijgo fevazhud ez bep buwkolomu fa binnuwpu uv. Pozi fa wuc wigusihe orehpo rebi use duangi mi guawabew zenodot lu unbi.",
+    "bio": "Tonsari po ipfahsut usumu wavonjo zoh ogu manse devopo wif awsuhano gusmojazu sek dotaz zocpabzej rafow folih. Ku enogto jusdupna ehe ow morfi gocahse dul pe vamtib obo nirmi tas latocoli te aj irlicor. Sez igeacute ap venizabi looku mol me igsu pujkaw ton levdu ja biuha. Hefokoho ebpihaf gouvkaf wusi dac hop pinih puvul zok li ewevacbis wopurup sifot zodnaf. Johrinez wabiklib hofav fu lal icuduh ij bilwitor zu atcicoj pelgun le zon gegviok teveczud ekueshuc ivoal. Vilumcuh egta nod boinci lahtec vezic urolunu dupese vinnuv ret hal sakic."
+  },
+  "apiKey": "aa7b5882fd4f1638eedcc4316e2fbcdee9089ebc5a218baf9bd531b04f04f4e4",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
