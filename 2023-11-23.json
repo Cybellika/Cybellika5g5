@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Massey",
+  "age": 45,
+  "address": {
+    "street": "Ipoca River",
+    "city": "Bilefte",
+    "state": "DE",
+    "zip": "07444"
+  },
+  "contact": {
+    "phone": "(679) 838-8500",
+    "servicePhone": "800898458"
+  },
+  "birthday": "2001-07-06T18:26:49.347Z",
+  "ip": "143.1.64.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Mu hef sibtael coiwacu ho uzuignub enwetufo cutfep neihetik atloh ruepisuj zi vi roppom korloroj weguk habu. Fuzivza boahi ifojas zi rit ofzu vijbeb pe tuem ka bujig mo fajoh evwol mise zuuwo. Gulviwbiz ne ovdes pud mud oviwojaw zipaewo te ni wen wec sipuvuolu.",
+    "bio": "Uzaji ehinog ajkic socrujo ketcuki bihuhenec ruibaibu kuimo vuf ruwlar biit mal. Apowok pok vir adheh pail tehadawu rajdike uz vathak hethion as vamewa ukubato uve luh. Gi vuj le decouci to zavum tu semiwi win tasusi hanru sazde bi per vud nibma copo. Ona ofbobon ha sof vod ib obdujul sudob il sipob bobwereh nubcumi el date tivawmi romeko iki."
+  },
+  "apiKey": "477b51ffc6fd7792425373a58023fa3ca13f0427e64f813488f9a1486e4265aa",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
