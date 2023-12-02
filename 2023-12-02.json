@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Bishop",
+  "age": 61,
+  "address": {
+    "street": "Tuzcuf Center",
+    "city": "Sijanzo",
+    "state": "NV",
+    "zip": "77694"
+  },
+  "contact": {
+    "phone": "(441) 333-1162",
+    "servicePhone": "800728299"
+  },
+  "birthday": "2004-07-17T15:42:50.327Z",
+  "ip": "54.198.31.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Awgazla ar julegse rezi azjis bopa tu luhhojde tuzdec nemap atubilal uhzijec si. Lurduje wugizaz ci felo aznipu wilid utwut wos zolgu ej dofdiodu fof zup pespodok ihale ko. Lega sa soh loef omobe isuvezap mur wit jeli vacidu kacri fet toson susvion.",
+    "bio": "Zo iku pomna tic tuozevop po tihciga ketih kini edoug fe jif casi bidewma romlo roemsav. Bufiv fipiwof igsetvud du zaw ol reklaw wal ajeta coeve dilkedaka nupe tesbo ivbal luba kicisdo. Og mu tuj mebes ukzupnu sivan poracpog idifod ebupupite cep so fo bazha nu medavsu modu cuf."
+  },
+  "apiKey": "70ec4e1a717420ceea4e9c8f059478e5e6f19d04013fb11cdbf4d90c8ef74593",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
