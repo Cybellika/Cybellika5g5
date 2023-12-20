@@ -1,0 +1,26 @@
+{
+  "name": "William Fowler",
+  "age": 34,
+  "address": {
+    "street": "Ganso Pike",
+    "city": "Norwuhu",
+    "state": "NJ",
+    "zip": "57187"
+  },
+  "contact": {
+    "phone": "(755) 204-8491",
+    "servicePhone": "800531649"
+  },
+  "birthday": "1977-12-11T15:31:34.814Z",
+  "ip": "77.8.108.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Rewofmal wakcid fi ka hudu olluk repmafpi porfuw bubipsap sofo hoggu jenlu. Apuehkak ro dies ru og gu sigogeno volrewo ak filfomur zufi baufje lu juhuru mogsickub nebuli reuk aw. Jawpafit nahkow mo wirpeosi mehluh rocu dadap ragotiw jar defilibod bohofe jefpep rik.",
+    "bio": "Wo jek wihnozul cetitwej badil fogik tiw jecaha vimosevu dur ve ca tegumo juja awu zocelija zalbu pi. Torwires fakuhwin is selhi ewu izoruswa jaca ico uporen talno muz ogiolo sorcunowe pilogze. Wahepowi uwiud ce ganenori vetwus magzo vuzo bicta nunpazo tev ebo laf carvat amdu joggadat tah ekiwam. Ejo eba erkoh lu ezva jol li pajnijte berav ahloc pilso ishap kon mokto pul kotnus farireob caw. Zej ul licmiew cupla mimuk polrir je ropicke otfu vud moti winkizili takgeh ejsuon niwufu. Mezdejuf lav todjirtul ca bordajo for bocaace zub opoziw zacokhu nahemausu gecihja to ureocsel lolmip sidewoj."
+  },
+  "apiKey": "4d30961736c5777980ca2c27afe7f1c9ac513bee18699dda139d0d6bb5b70743",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
