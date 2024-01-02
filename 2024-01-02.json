@@ -1,0 +1,26 @@
+{
+  "name": "Christian Perkins",
+  "age": 65,
+  "address": {
+    "street": "Ajize Path",
+    "city": "Annegi",
+    "state": "NY",
+    "zip": "26326"
+  },
+  "contact": {
+    "phone": "(867) 569-2018",
+    "servicePhone": "800233343"
+  },
+  "birthday": "1981-02-02T19:20:21.267Z",
+  "ip": "228.117.248.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Tucpur pa ce zow dajjadof kitulhi bukavi koob ij rioledi wiwref wum vuwpozfec wuwfot puv. Me ivpit vaj ki atwo sodole ridnuhge ebu te uw koiro nu. Ik sepizdo mawu re ha im om sirabsof fidezlol awimuc vinu niov. Sid hillo abimevto sivdebuj cursat iso ta nupwini wagevip cik difid hozmina cevo.",
+    "bio": "So ezeejo dubve zag ronroivu jinpifo vonuzo cafa tu hub ijcom gotluguc lev gecengik ocu disuwwi doob. Bedgi veilu tikluwov wojub johoji dovti aze koboz ut jippoimo ezcus bod ithubi lok umutuz wagfid noruzaho. Mobuvo lutte juhut usiet lintita gacu igifa oniz zuczih wu sagpi cosikguf. Nic gabi riluraka gusju vuaf za edtelfa aho wawzal vuvjiv irama kij ada. Ahtifhev tunfen saur zuhesi bi omuelinu cis of na lo vohozvul nekfi dujiib lor. Asgi so jiv ji kevpuc ced niksavu enibil gefi rivuvju hulca zojumuf noiclo onigeduf uzlacvit apme."
+  },
+  "apiKey": "a41fa0901f0a05af37432e1d0a7cc39ebd5ef6b1047af2fc7ceef74b50797d1a",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
