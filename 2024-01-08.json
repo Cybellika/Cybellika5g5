@@ -1,0 +1,26 @@
+{
+  "name": "Eva Hughes",
+  "age": 50,
+  "address": {
+    "street": "Widwut Path",
+    "city": "Katudmo",
+    "state": "CT",
+    "zip": "16882"
+  },
+  "contact": {
+    "phone": "(321) 368-5601",
+    "servicePhone": "800812672"
+  },
+  "birthday": "1996-07-09T13:56:09.371Z",
+  "ip": "79.163.26.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Wilojucu ajjat ud goow sutune upihoj te tiduwow emgike hoati non tenfah holpom eko woidwo mihpu fikojiz wucef. Ca koboj zoj wodatav ced aw cefifho delohule wu mojoceca putem ratnu mer le cegicrej. Hehmok do mos sur iko guma gijafiv met ojejidti nojechi no dafaih lecfuk larlov.",
+    "bio": "Piwito jupkuvur sepa je kin ezika bilo wuwrib pam geppofe virovjac se silefu. Cevu lo ocror altuta kas azalaro ubecov dan egagomore og emtinoj houf abka. Banpavu cova powjulmi mo vobogi cidid ki oc kufhimba biisu ivu agveve ahiecaw ivamilpo kup kejma epeekizir. Idca efeeluag fomufawa zavveza or rolog gezkik lunorfaj teal ku ob kirvok tenuz ramu. Camavku timgu tecat vir jisbeza era efefezez egro hibwi icawa lumo losukizav cip paspedco pacdisab. Helbaevu muwecuki dockalza dapvudzej ele lo nuvvevho opi pepor igzomu jezizu ka. Nuzmedvop rikoj le pes daja cewcedvo bulazki odemesaj hibpamzaf zijiuso cujcu liftuce hama ipsag odioc."
+  },
+  "apiKey": "b832426f4c056d26ea78f686532e23796616559f807e6704a8594ad5bf755663",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
