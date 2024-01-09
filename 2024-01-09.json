@@ -1,0 +1,26 @@
+{
+  "name": "Steve Bridges",
+  "age": 43,
+  "address": {
+    "street": "Izuhoz Path",
+    "city": "Tukcitco",
+    "state": "SC",
+    "zip": "87394"
+  },
+  "contact": {
+    "phone": "(635) 472-9813",
+    "servicePhone": "800833749"
+  },
+  "birthday": "1960-04-04T06:41:35.740Z",
+  "ip": "234.35.120.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Akniv if juabepo sulab suukino irfij daveb la nolael nak kucsu eta fivregda oto. Pi ekufog ifuzod aknew bo uh hag wekeoho gidkot ob cuuc zufu sip vu kimjuh zesajsej eg naev. Cuc ehecom jomruc wejsoma kulufuru nirnon bioj siwahovup ubmi oronibpeb boahse tudpec ah tageraz wu zidop ge. Misuh ulhim dawdetvud re ehso ih mewzize cehan feitoci dahajobi zugaoz zuc emosarip vofsagose ohujevi ivokap mo ga. Rajcufpug uvaice guszuhbe ranzel burud aregeawe limo lu bairfi zifbociw irimes wof mem wooruded jabaag aweemu. Te higsip rufri zererer bi goma ke akejaere uhofu torog acouz hagonva ikcope.",
+    "bio": "Mer zitcoj ilcosot dewsa rocumoh ucadu faz befiub mo uluiziti towhoc cih ef si caizoob. Iletas wo pitcumto daprager le vuc tovo egvi ca pilace fi monaoj duga hukzunse bo pajnewiv dahen razol. Jeuzavo maufin lizkegta gac fuhjive me omsi ku ic ipwokej hagihnik rolkubori helob."
+  },
+  "apiKey": "5ccdef1da30019c6222941f7c456abb55c447bc3d422a8e0c8fd849218520bef",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
