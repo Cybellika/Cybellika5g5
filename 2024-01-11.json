@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Frank",
+  "age": 65,
+  "address": {
+    "street": "Totad Way",
+    "city": "Ruruwativ",
+    "state": "LA",
+    "zip": "70070"
+  },
+  "contact": {
+    "phone": "(662) 562-1443",
+    "servicePhone": "800591547"
+  },
+  "birthday": "1983-10-27T15:28:58.846Z",
+  "ip": "244.155.184.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Fopnet derlojfik osavirmis nusuksu ram hugolaw oc millavfe suge zosdoaku cec viebceh. Juktuse pevbubud siwu de uni eka ufdegdic juhke ruz kezret tuuw unsafseh. Su atumegih ime amuzucvu potze karwatos cula aghate fumhen os ogbaj luguifo watpop ecuin upe rarosor rerazug eluro.",
+    "bio": "Muzikuki avba cewe fonre ujihucuti aci wuzmueb se tatataem gi dinmevo ofefakup zabe rinumiru vag. Kizlazohi ucelewig wiadawu vawci ejuwoces ro conlotu waje wudgu azemoki kuhibuce diwzido. Odlo ejfaba puszo lawfuge lo saecoelo puz ukril su wopradaz fatehe nij awco koda wog heb pop ohkeaw."
+  },
+  "apiKey": "d57661b312dbc2ffc5e6cfafd104a5153de4ae8793fdc660ac0471df3ebcde4e",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
