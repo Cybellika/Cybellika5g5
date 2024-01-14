@@ -1,0 +1,26 @@
+{
+  "name": "Erik Simon",
+  "age": 19,
+  "address": {
+    "street": "Lodja Mill",
+    "city": "Rovicjig",
+    "state": "SD",
+    "zip": "55732"
+  },
+  "contact": {
+    "phone": "(252) 404-5189",
+    "servicePhone": "800488311"
+  },
+  "birthday": "1975-08-06T20:52:08.139Z",
+  "ip": "178.97.158.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Avuhuv hawhudi suetbun gotirtep tu vaduraj biswutez gidem kap igiti tugwel catvefu segjuhew bur tiisu. Ekdo caz cemuri nemowatu supregez cakam tucraz ledi bo at owtufepa vukuh mofuk bena ramnumag go benaw. Wesa fedopne viduuw norivo diseji taccuzviw netcini askonsog ke lap ahpejzu socab vazven jannacuw vugeci hiawe rimoden.",
+    "bio": "Atazico ijho fawwevtuv wab beh bekzef vowufop juip ogo ubdalho galofbos jobip be is zozegi. Oso hewo micsekod ijipumu coslujfup lewdinmor ulu josuduga kab ductofif zi luug afo wof nuvecgu urugaud lauda pi. Bo haom comasro kit kin tedicke ir uvohenbi bupizu go ca gor galogu viaw apoce beksomna ef."
+  },
+  "apiKey": "7aa80d3f45a9c433c349fc2c7eaaf1586184a4b304107778df0ff2d13e6771dd",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
