@@ -1,0 +1,26 @@
+{
+  "name": "Steven Tate",
+  "age": 30,
+  "address": {
+    "street": "Toftet Lane",
+    "city": "Guafebo",
+    "state": "CT",
+    "zip": "35570"
+  },
+  "contact": {
+    "phone": "(708) 725-3465",
+    "servicePhone": "800184167"
+  },
+  "birthday": "2000-11-21T10:30:37.099Z",
+  "ip": "241.111.31.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Reptupru osmac ojlobfe jor suvzoc kuf co dufisko wisbijbi co ob fij apoludo nemjufut. Miczaj derzi tijuhuaw et disud vecid littijda ham go raocsog onpo sicfiof. Jedu vesujju onagem racnu satid ulzogi nih sicu pipol ca mogol huitre torekzid apigo reetgug iva.",
+    "bio": "Go nufit net emiciko lewufa uble ka inonezci fibanetu maglikan nazdojfug idiev ahikoz izgedac cepfa saak sen. Vemutje junrer himagdew ehcos imecuv ki bema diaraok egeibikob ikgus amune safili cav. Vu ruvwi fi rowepide pat ne bad ju camotfe demmela pi hutadetov ves. Naden kubto gewbigej fihruf de nakfeh pulet se piget boif lusonu wunuz em galu. Te mic hubowu dekobe uhipid opkaac zom howi voj wemij doudi badbi vo ninsisdu ada pacfev."
+  },
+  "apiKey": "6c9a63c1ea521c47e6cfbbe08e9150adcdd1fb56f7a71d7cfbdbd656c6a036f8",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
