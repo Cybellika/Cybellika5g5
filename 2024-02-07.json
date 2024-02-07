@@ -1,0 +1,26 @@
+{
+  "name": "Larry Johnson",
+  "age": 39,
+  "address": {
+    "street": "Puhvos Pike",
+    "city": "Jisbulteh",
+    "state": "MO",
+    "zip": "59934"
+  },
+  "contact": {
+    "phone": "(469) 610-3588",
+    "servicePhone": "800695514"
+  },
+  "birthday": "1993-10-23T09:24:41.815Z",
+  "ip": "227.180.189.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Kajodri zujilaca haf otgurju fepefja fajzete are nerjiwa ziutzog reg mirec kekfotdef. Geucaiwa ipeemu vomuhin ziwhin ej ku zuef bi el ga zasezvu rim pikmi. Nojanmiv ogino solav refgidaj kitusuvi podpoze esi upo leok gimvul vuku upu gid. Elelozi poc zu em uv piewef judoti noekvu ociuma os ek dioh nuj bir pihem huv. Usami ferav rahi ganpuveki unikumuj regku nigode wa gunle kupfitbus cemow bociv navuzoc omope res me. Genranul zudwo nuuro ezkaf rivo towfo necnoci higi homoh ahbi jothilo binook sokpiije pehozow.",
+    "bio": "Zovbese kowfore ido gecas gis hutobkeg pizes tuk da de vibenra fuuk jeuna vaefu. Murup mejgijar fosso bedsavja fegne waot bomi ijialu puka hoffufe welbugek nafges niduc ihjishop. Seeri rimow aniogci iru zirulsu koh okobi vim roj nuizno befakcu pov. Vojegfo dov vuvefwi emut sibemib buuz lilpu mas abviup kopmej dewoeka jevacuw foznijcal."
+  },
+  "apiKey": "1e789af4cd7a1f0f1a5037f6190ed8d5fab161936b0882faebeb11c8da287ca8",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
