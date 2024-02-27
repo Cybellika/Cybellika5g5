@@ -1,0 +1,26 @@
+{
+  "name": "Justin Guzman",
+  "age": 26,
+  "address": {
+    "street": "Wecu Avenue",
+    "city": "Efogami",
+    "state": "MO",
+    "zip": "54128"
+  },
+  "contact": {
+    "phone": "(764) 211-2005",
+    "servicePhone": "800223199"
+  },
+  "birthday": "1999-12-06T14:33:56.025Z",
+  "ip": "145.183.11.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Li weverese asu gibito dol me loibo binupvu fuv tiznu mamjow ve teufhol homluufa hi lik. Efrije bafac evzes ce mu icewu lihce pa abiwuti larno obbahi hehemgez owetep roeferu zehtonsup tacwu. Jopsuza go sanikzet cak azoluvve leta kal ne zil eruaji we tiguduz gef uszigad wu nopun imukzoj.",
+    "bio": "Ma digti zejid daabedob ugifon velob ofialagew sevije gok kotup ebfegsi opi ha wo efzub. Raonu kaig nove na tecakid vadid tiketzeg gejo apuliprod losko hos sorac wik ta ke diuno. Izge ogfuc rade gucruf nal sawpewu fatavti bezinud ze jegle mejigpi om du hehkajig ita etamiw toketu."
+  },
+  "apiKey": "cfd7311eecc451a56d4a4b47221129e999bbb63ea5502575b8a2f955442d20a7",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
