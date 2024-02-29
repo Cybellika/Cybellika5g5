@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Ballard",
+  "age": 18,
+  "address": {
+    "street": "Diweg Boulevard",
+    "city": "Admihhiw",
+    "state": "ND",
+    "zip": "94805"
+  },
+  "contact": {
+    "phone": "(603) 570-3171",
+    "servicePhone": "800742182"
+  },
+  "birthday": "1970-11-03T09:28:29.335Z",
+  "ip": "86.71.29.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Ewotujic wewza fime ru ro zamsacib douhoig neh upuge ducizit hefi rupu duwub vi sarkad. Od nahow kipugbes cam li warko ceju wabgov gapu soj ag kam. Abi seete enid fa ni tow saduf wevoc do pum ecafa wu po gu caborot. Didepva wafze coziati wenaac wuca riicgu hotigucu sosaf lara mo naenavip bif niv. Remalo rumiwor kotdo ci tebul ba home hab jizuh kanimun kilu ap owu majag pinje.",
+    "bio": "Dagrage noalosez harvu vafpeb lomivkov kaadjac vihtu ninpop vibuvomeb cisi di ad ju wa esi ickim fih. Wergubdun wucpepwek utigoljuh wiphujcam juwudvup tokme ebbadel waguc sobliho vifbis lasrin zepobles nenlovtu. Nudelaf taku umvi efigoj enna bukcul bega natef puatita vo ub hat fervaeh. Gi pocima pizoz hejtipfu liwew nusokji da pis obmuca detjehip zumwosvuz rurasco afu. So dukme mucib rulawe copudfo owoij dulilgi geodoki om impofom ge nurpirno meffis barat ovowijum uhgov."
+  },
+  "apiKey": "14212b5dec7a31715fdf930d4aec07de34e671684e8c6946d2486c125ec0b3bc",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
