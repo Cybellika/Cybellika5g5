@@ -1,0 +1,26 @@
+{
+  "name": "Sophia Ramsey",
+  "age": 60,
+  "address": {
+    "street": "Gufbap Street",
+    "city": "Ifeulwa",
+    "state": "AL",
+    "zip": "14352"
+  },
+  "contact": {
+    "phone": "(551) 693-7364",
+    "servicePhone": "800735551"
+  },
+  "birthday": "2003-01-19T22:45:40.054Z",
+  "ip": "91.46.182.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Nom waoda erakeh gehtuk ti sawutar jideidu degrap ma nomadna raf bu ibdub zalu do wub. Fof vo wehehru uk fiifuez kozajege irnen jakorutu ha puzvoj homguzro ce sinhalfep uduto dazwo hezihisu mi uj. So biw gas jacu ewudejof nuinre itiukjah ipinaek piltidza jaboz lawego an.",
+    "bio": "Vaasi arufejzi divmud poztutir maz un povu on obekepol mon kohsilu huima jopemor ajewe no zufanof sutied bakek. Wiarkis naonno beuwawe woh tus afwuz ij tenunpiv uruvut pe hejekabe gi. Hapmaggug dunlomoc bun olaje raedo jo wagig ha lujaj jotkes buvafvan rolde buif."
+  },
+  "apiKey": "a5eba4666b146681c36adeec9c964aea49c9f100c67f32999086787c4da17d73",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
