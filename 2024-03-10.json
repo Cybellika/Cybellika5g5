@@ -1,0 +1,26 @@
+{
+  "name": "Jayden Romero",
+  "age": 45,
+  "address": {
+    "street": "Habpu Square",
+    "city": "Unagewtun",
+    "state": "CO",
+    "zip": "48661"
+  },
+  "contact": {
+    "phone": "(505) 715-4945",
+    "servicePhone": "800891184"
+  },
+  "birthday": "1966-11-10T14:16:07.078Z",
+  "ip": "181.107.127.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Marte jaeda wogun un du juwafu hipdimhe bum cojesu nubadu zif nohhop fi ufi fam muiruuze. Dopab fasi cubci ca vupi od birwewo fo tun iji posat bamaj sizijta letohaw lupset. Dubbu giwar ujigeit cupapu heolkah jovlazom fozama zolfokub posi magahgu lo gafba lod avo najzit nemobgeh neltefes kegvu.",
+    "bio": "Ge duzmo uwoupa mih imoduw ru roj halodum coaf nu jorbe ufefonu avton gip kagpadsir rap. Woisiz zod debtagte akwewmec kujo hacgu cibsa wakpumum ize dibjerasi jednuwfu mohik javpag fovho vajavucel kipir oratu wo. Hohu timwu tekig vi futabodo olivivet huguvil dal malebla kidza nu menisma wov bo rapakug."
+  },
+  "apiKey": "d360c5351941a64e00a7549d50ce2b376bed0496664054eedade18dce7afc5d0",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
