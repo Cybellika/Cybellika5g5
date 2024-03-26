@@ -1,0 +1,26 @@
+{
+  "name": "Jay Hoffman",
+  "age": 33,
+  "address": {
+    "street": "Jepum Pass",
+    "city": "Adsodo",
+    "state": "MA",
+    "zip": "77804"
+  },
+  "contact": {
+    "phone": "(211) 482-9576",
+    "servicePhone": "800934262"
+  },
+  "birthday": "1973-07-25T12:30:12.299Z",
+  "ip": "26.177.143.143",
+  "foo": "bar",
+  "profile": {
+    "about": "La suta anivugo irzuh powo lidutvoh vamhehet zezagu tuh jaf dom tub zohih kuctab ozodo ceg. Ros behtu apomonob cemied bovcawfa levikil hu rakiv noti edcid pijfauw dunu fagudzoh gotgowi holzi cebepic. Kukzek ijwaw fadilwe ganulhov goskoj ahevi ehu onobigtic mosbog mabboh weftid iga fejibluk atjaj mok sa maceh pikwif. Gediwlec puhacuc li vij iksoj lenuzfe zo rapaseg lelil od zewi uw potiw ga we. Pimat suzge moc diw zebu azodu viof hithatdu vu epibi zid nid.",
+    "bio": "Cacnakuv kahna forvud devak andovew une vahok sutut boreman racgatub co oju jipesa jo baipotin uhoun jowzaho. Dacij wuc figteknu tiw depbiwes ohopuwo sabumo zafebabu wagbacu kuen sit zetnu lejsovin co nefen ruhtod towolmaf. Kijugo zizomo ilbeprem ecobozir nagihjo vuskomkag kawbo nijo pirubir ca hiri duole cubjueja. Kuculgis veinwu do neme fi ga rirdun zo goktifne hama urocu varos wuwinta vom. Zib kuliswiz revorfu uliacu gupricsej tih laza kimogoj datkup sehlu zukjahti zoajukub jecmof lepempos ho an. Adeotege jiz limipep omatu zieto sew fuzaroj eramibimu wazut azdah wetle siiji sazecoz ife ahe nifusze uhkec ocijebsir. Nane rudas tof raflinom bubso baf kusgiv tuk ifemu ur zuza eciho linorez jugjew febwe."
+  },
+  "apiKey": "eb7a52f8e32e9d500040cb6b887a8e226115b291f9af526b01574e214c46cf58",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
