@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Curry",
+  "age": 26,
+  "address": {
+    "street": "Buwih Square",
+    "city": "Zabaskug",
+    "state": "MN",
+    "zip": "00027"
+  },
+  "contact": {
+    "phone": "(830) 218-5520",
+    "servicePhone": "800988528"
+  },
+  "birthday": "1986-11-18T17:32:41.003Z",
+  "ip": "165.78.107.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Fij werziske si timac utofifok deb kuic veusi zino ne abigerum ezemumhi wijiw. Gadka vukbicwet udjuwvo sofsija zu izpumus cubfo bukumpa zoriol lu zih pan kole benji gi fifow bav hez. Vajuz vevjese ulecagu dekpilo lonumrur ja humu faza eshedgom hawodvo avzuko rabespo dut.",
+    "bio": "Usoapuzij ew eliki cewvoal hilmu ujit mon ate se copulrag acso povwa durhejraj isvu wat ci sukpo. Heju sahihfiv tit usizuta luew won vigkodse zussupo jum robmerder azive utjol pamru logugkat bitcib. Saspagto fir zuwnacal ufi ihi ne okikimaw onjeenu wa fe duvebioko jo focim irolot tito lev."
+  },
+  "apiKey": "0257a3e0a307d475e4c0c50c0302c6c95b9d7d0f5cd434f6540b4111ede0a260",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
