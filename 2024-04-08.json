@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Abbott",
+  "age": 24,
+  "address": {
+    "street": "Debes Point",
+    "city": "Ajeektis",
+    "state": "NH",
+    "zip": "60354"
+  },
+  "contact": {
+    "phone": "(411) 218-6309",
+    "servicePhone": "800419137"
+  },
+  "birthday": "1990-12-25T01:17:51.259Z",
+  "ip": "71.153.27.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Goeni jirowo teli wacsa zered iwo ca guc sobew mojede ivohu fooz. Azinutgo sawu cuosi lutmom dav lop vap loow domut gi gezboro fod notso. Cesidvoh kacpivah horgul mohahok sa rebuije su jesob bunkagwu se geoj poar feufisu peob foatodap vo fir neira. Gu lekleik lubmez da abji gebgunruh was oc pif ca nulti sa ka.",
+    "bio": "Ul zavfuthu vup kawdulrot dedbawso puebo lasih vacacifa do olcin mupcoz ne. Roiwiahu tisgig ajuawaso videic owu livcil woc dipcahe bam nujgu ag leaca todopi atfi he vuga gucakub. Fausiaw va lehudow funas muwo tevem nojta lupaso se zugedu tejug debpi law zi. Rifinta jolikoc zug wos se jaokha lev ris pemjenda zi kozvemag cugpohsar cul joselcob nodlihva he itmanif."
+  },
+  "apiKey": "50f330c9e8318f18a6e72717cbc11f384c5638551f9c3b889bec48d4c5959e13",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
